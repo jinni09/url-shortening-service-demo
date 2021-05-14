@@ -19,7 +19,7 @@ const render = (data, last) => {
       <input 
         type="text"
         class="result__shorten"
-        style="width: 380px"
+        style="width: 500px;"
         value=${data.link}
         id="${data.id}"
         readonly="readonly"
@@ -124,6 +124,14 @@ const handleSubmit = async (event) => {
 };
 
 const handleCopy = (event) => {
+
+  let elements = document.querySelectorAll('.result__btn');
+
+  for (let elem of elements) {
+    elem.classList.remove('result__btn--copied');
+    elem.innerText = "Copy";
+  }
+
   const btn = event.target;
   const id = btn.dataset.id;
   const input = document.getElementById(id);
