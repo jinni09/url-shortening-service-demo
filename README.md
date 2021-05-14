@@ -1,1 +1,6 @@
-# 무신사 코딩테스트
+# MUSINSA CODING TEST - URL Shortening Service
+
+
+Demo : https://jinnipp.github.io/musinsa_coding_test/
+
+
