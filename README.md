@@ -1,1 +1,1 @@
-# jinni.github.io
+# 무신사 코딩테스트
