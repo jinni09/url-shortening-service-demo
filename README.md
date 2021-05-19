@@ -1,4 +1,4 @@
 # URL Shortening Service (Without a Web server)
 
 
-Demo : https://jinnipp.github.io/url-shortening/
+Demo : https://jinnipp.github.io/url-shortening-service/
