@@ -1,10 +1,10 @@
 # URL Shortening Service Demo (Without a Web server)
 
 
-Demo URL : https://jinnipp.github.io/url-shortening-service/
+Demo URL : https://jinnipp.github.io/url-shortening-service-demo/
 
 
-Test URL : https://jinnipp.github.io/url-shortening/ -> http://localhost/BLpHXhEp
+Test URL : https://jinnipp.github.io/url-shortening-service-demo/ -> http://localhost/BLpHXhEp
 
 
 - Implement similar to bitly api
