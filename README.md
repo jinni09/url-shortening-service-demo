@@ -1,7 +1,7 @@
-# URL Shortening Service (Without a Web server)
+# URL Shortening Service Demo (Without a Web server)
 
 
-Demo : https://jinnipp.github.io/url-shortening-service/
+Demo URL : https://jinnipp.github.io/url-shortening-service/
 
 
 Test URL : https://jinnipp.github.io/url-shortening/ -> http://localhost/BLpHXhEp
